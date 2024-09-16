@@ -1,0 +1,45 @@
+{
+  "name": "termimg",
+  "version": "1.0.0",
+  "description": "terminal image generator (2x resolution)",
+  "main": "dist/index.js",
+  "type": "module",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "pretest": "tsc",
+    "test": "time node test/test.js --enable-source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0wanda/termimg.git"
+  },
+  "keywords": [
+    "terminal",
+    "image",
+    "tui",
+    "ansi"
+  ],
+  "author": "rowan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/r0wanda/termimg/issues"
+  },
+  "homepage": "https://github.com/r0wanda/termimg#readme",
+  "dependencies": {
+    "braillelib": "^1.0.2",
+    "sharp": "^0.33.5",
+    "sixel": "^0.16.0",
+    "supports-sixel": "^1.0.0",
+    "tinycolor2": "^1.6.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "@types/eslint__js": "^8.42.3",
+    "@types/node": "^22.5.0",
+    "@types/tinycolor2": "^1.4.6",
+    "eslint": "^9.10.0",
+    "globals": "^15.9.0",
+    "typescript": "^5.6.2",
+    "typescript-eslint": "^8.5.0"
+  }
+}

@@ -1,0 +1,11 @@
+the images used for testing (excluding smoke.png) are licensed CC BY 2.0, which can be obtained here -> https://creativecommons.org/licenses/by/2.0/
+these images have not been modified.
+
+the image found in cat1.jpg was taken by Jennifer C.
+the original image can be found here -> https://flickr.com/photos/29638108@N06/45040475871/in/photolist-2bC5dhP-5z6X4p-ZsPJjL-8dKmf5-6jcJWj-612N6k-dTAWcA-YccidV-ZrkQeh-9Kwe3v-FLKBga-deRX8Y-ZvCpX8-7EQcoF-ajyAM1-4WXspe-eXjbGV-ZvCwtK-jy9wXV-BpSSGg-q83znw-ZvBB98-eeDEiJ-W9SPUa-6e196g-7kzTfz-aVEDxZ-93pViF-d549h3-85G64L-CpwUa3-dTSMv3-8BmC2q-ZL6bPg-rdr7va-5WStdr-Z7NtkC-brh5V9-8vxz38-266p4-5aev9S-kUgwo-fSny3M-ZL6d2X-EXmHA4-CE4RS1-Z7PMt9-ykQvnY-EXn1FM-cHLp5J/
+
+the image found in cat2.jpg was taken by Paul Harrison
+the original image can be found here -> https://flickr.com/photos/pfh/3000032217/in/photolist-2bC5dhP-5z6X4p-ZsPJjL-8dKmf5-6jcJWj-612N6k-dTAWcA-YccidV-ZrkQeh-9Kwe3v-FLKBga-deRX8Y-ZvCpX8-7EQcoF-ajyAM1-4WXspe-eXjbGV-ZvCwtK-jy9wXV-BpSSGg-q83znw-ZvBB98-eeDEiJ-W9SPUa-6e196g-7kzTfz-aVEDxZ-93pViF-d549h3-85G64L-CpwUa3-dTSMv3-8BmC2q-ZL6bPg-rdr7va-5WStdr-Z7NtkC-brh5V9-8vxz38-266p4-5aev9S-kUgwo-fSny3M-ZL6d2X-EXmHA4-CE4RS1-Z7PMt9-ykQvnY-EXn1FM-cHLp5J/
+
+the image smoke.png can be found here -> https://www.vecteezy.com/free-png/smoke-alpha-channel
+and is titled "Smoke Alpha Channel PNGs by Vecteezy"
